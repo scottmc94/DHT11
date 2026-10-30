@@ -5,7 +5,7 @@
 #include "dht.h"
 
 // Define the pin where your DHT11 Data line is connected
-#define DHT11_GPIO_PIN 27
+#define DHT11_GPIO_PIN 18
 
 static const char *TAG = "DHT11_APP";
 
